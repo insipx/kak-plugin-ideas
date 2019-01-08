@@ -1,0 +1,1 @@
+# kak-plugin-ideas
